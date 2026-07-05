@@ -40,7 +40,7 @@ Then systems for building methods.
 
 The note below is where that process began.
 
-![Original first note](Assets/Note.png)
+![Original first note](assets/note.png)
 
 ---
 
@@ -48,7 +48,7 @@ The note below is where that process began.
 
 The original note gradually expanded into a connected body of work spanning methods, production systems, and applied projects.
 
-![Portfolio map](Assets/Map.png)
+![Portfolio map](assets/map.png)
 
 ---
 
