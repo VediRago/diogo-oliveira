@@ -1,0 +1,22 @@
+name: Markdown Checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  integrity:
+    name: Markdown integrity
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run Markdown integrity checks
+        run: python scripts/check_markdown_integrity.py
