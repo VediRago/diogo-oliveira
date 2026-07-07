@@ -26,27 +26,23 @@ No story yet. No people.
 
 Just a cycle:
 
-> fragmentation enables experience → experience produces connection → connection trends toward unity → unity creates instability → instability triggers re-fragmentation
+![Original first note](assets/note.png)
 
 Everything documented across these repositories grew outward from that cycle.
 
 First came characters.
 
-Then a world.
+Then a Everythingorld.
 
 Then methods.
 
 Then systems for building methods.
 
-The note below is where that process began.
-
-![Original first note](assets/note.png)
-
 ---
 
 ## Where It Led
 
-The original note gradually expanded into a connected body of work spanning methods, production systems, and applied projects.
+The original note gradually expanded into a connected body of work spanning methods, prproductionystems, and applied projects.
 
 ![Portfolio map](assets/map.png)
 
