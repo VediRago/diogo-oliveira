@@ -1,10 +1,10 @@
 # Diogo Oliveira
 
-## How to make complexity approachable.
+## Making complex decisions visible.
 
 That's the thread running through everything below.
 
-Different mediums, different problems — story, systems, documentation, and interactive prototypes — but the same instinct applied each time: take something dense and find the exact amount of surface a person can hold at once, so the complexity underneath never feels like a wall.
+Different mediums, different problems — story, systems, documentation, and interactive prototypes — but the same instinct applied each time: reveal the decision structure beneath dense material, so what was buried becomes visible without flattening it.
 
 ---
 
@@ -14,7 +14,7 @@ I work full-time at a glass factory.
 
 Everything here was built alongside that — self-taught, in evenings and off-hours.
 
-Across different disciplines, my work focuses on making complex systems approachable.
+Across different disciplines, my work focuses on making complex decisions visible.
 
 ---
 
@@ -32,7 +32,7 @@ Everything documented across these repositories grew outward from that cycle.
 
 First came characters.
 
-Then a Everythingorld.
+Then a world.
 
 Then methods.
 
@@ -42,7 +42,7 @@ Then systems for building methods.
 
 ## Where It Led
 
-The original note gradually expanded into a connected body of work spanning methods, prproductionystems, and applied projects.
+The original note gradually expanded into a connected body of work spanning methods, production systems, and applied projects.
 
 ![Portfolio map](assets/map.png)
 
